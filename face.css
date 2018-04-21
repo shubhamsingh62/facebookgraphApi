@@ -1,0 +1,50 @@
+body {
+    word-break: break-all;
+    height: 100%
+}
+
+
+.nav a {
+  display: flex;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.userDetails{
+    border:2px solid #ddd;
+    border-radius: 0.5em;
+}
+
+.coverHeight {
+    
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size:  cover;
+    height: 100%;
+}
+
+.userName {
+    font-size: 3vw;
+}
+
+.profileHeight {
+    width: 70%;
+    border: 0.5vw solid white;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px silver;
+}
+ 
+
+.rowStyle {
+    border-bottom: 1px solid #ddd;
+    margin-top: 1em ;
+}
+
+.rowStyle div {
+    padding: 1em;
+}
