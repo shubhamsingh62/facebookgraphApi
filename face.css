@@ -2,6 +2,9 @@ body {
     word-break: break-all;
     height: 100%
 }
+#ddd {
+	text-decoration: none;
+}
 
 
 .nav a {
@@ -10,7 +13,6 @@ body {
   color: black;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
   font-size: 17px;
 }
 

@@ -5,7 +5,6 @@ let mytoken;
  let token1 = () =>{
   mytoken = document.getElementById("recipient-name").value;
      
-     //mytoken = prompt("enter token")
 
     if(mytoken == null || mytoken == "" ){
 
